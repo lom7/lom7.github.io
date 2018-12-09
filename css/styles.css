@@ -6,6 +6,10 @@ body{
   border-bottom: 1px solid #647f7b;
 }
 
+.picture{
+  margin: 45px;
+}
+
 .house{
   height: 25px;
   border-top: 1px solid white;
@@ -15,12 +19,18 @@ body{
 }
 
 .floorNumber{
-  color: white;
-  
   position: absolute;
   top: 50%;
   left:50%;
   transform: translate(-50%,-50%);
+}
+
+.darkText{
+  color: black;
+}
+
+.lightText{
+  color: white;
 }
 
 .floors{
@@ -28,8 +38,29 @@ body{
   padding: 5px;
 }
 
-.floor14{
-  border: 1px solid red;
-  height: 100px;
-  width: 300px;
+.floor{
+  height: 350px;
+  background-color: #647f7b;
+}
+
+.apartment{
+  height: 117px;
+  border: 1px solid white;
+}
+
+.entrance7{
+  background-color: #c2c4a5;
+}
+
+.entrance8{
+  background-color: #1c3237;
+}
+
+.lift{
+  height: 58px;
+  background-color: #fbefcf;
+}
+
+.bottomLift{
+  margin-top: 58px;
 }

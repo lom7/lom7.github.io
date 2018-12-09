@@ -1,6 +1,7 @@
 'use strict'
 $(document).ready(function(){	
 	$(function(){
-		$("#b-placeholder").load("house.html");
-	  });
+		$(".ground").load("html/house.html");
+		$(".floor14").load("html/floorOne.html");
+	});
 });
