@@ -3,5 +3,17 @@ $(document).ready(function(){
 	$(function(){
 		$(".ground").load("html/house.html");
 		$(".floor14").load("html/floorOne.html");
+		$(".floor13").load("html/floorTwo.html");
+		$(".floor12").load("html/floorOne.html");
+		$(".floor11").load("html/floorTwo.html");
+		$(".floor10").load("html/floorOne.html");
+		$(".floor9").load("html/floorTwo.html");
+		$(".floor8").load("html/floorOne.html");
+		$(".floor7").load("html/floorTwo.html");
+		$(".floor6").load("html/floorOne.html");
+		$(".floor5").load("html/floorTwo.html");
+		$(".floor4").load("html/floorOne.html");
+		$(".floor3").load("html/floorTwo.html");
+		$(".floor2").load("html/floorThree.html");
 	});
 });
