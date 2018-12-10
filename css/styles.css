@@ -64,3 +64,8 @@ body{
 .bottomLift{
   margin-top: 58px;
 }
+
+.house:hover{
+  cursor: pointer;
+  background-color: #1c3237;
+ }
