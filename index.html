@@ -14,14 +14,23 @@
     <script src="js/main.js" type="text/javascript"></script>
     <script src="js/setFloor.js" type="text/javascript"></script>
     <script src="js/setApartments.js" type="text/javascript"></script>
+    <script src="js/security.js" type="text/javascript"></script>
     
 </head>
-<body>
-        <h3>"Ломiвське, 7"</h3>
-
+<body>        
         <div class="container picture" >
+                <div class="row">                                      
+                        <div class="col-md-2"><h3>"Ломiвське, 7"</h3></div>       
+                </div>
+
+                <div class="row securityDiv">                                              
+                        <div class="col-md-1">Пароль : </div>     
+                        <div class="col-md-2"><input id="word"></div>     
+                        <div class="col-md-2"><button class="btn btn-secondary btn-sm" id="pass">Войти</button></div>     
+                </div>
+
                 <div class="row">
-                        <div class="col-md-2 ground"></div>
+                        <div class="col-md-2 ground hidden"></div>
                         <div class="col-md-10 floor14 hidden"></div>
                         <div class="col-md-10 floor13 hidden"></div>
                         <div class="col-md-10 floor12 hidden"></div>
