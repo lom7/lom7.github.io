@@ -19,7 +19,10 @@ info.push({
 	occupants : [
 		{name : '306 name1', phone : '306'},
 		{name : '306 name2', phone : '306'},
-		{name : '306 name3', phone : '306'}
+		{name : '306 name3', phone : '306'},
+		{name : '306 name4', phone : '306'},
+		{name : '306 name5', phone : '306'},
+		{name : '306 name6', phone : '306'}
 	]},{
 	apartmentNumber : '307',
 	occupants : [
