@@ -13,7 +13,7 @@ $(document).ready(function(){
 			$(".ground").removeClass("hidden");
 		}
 		else
-			alert('Проверьте пароль!');
+			alert('Не верный пароль!');
 	});
 
 });
