@@ -23,9 +23,8 @@ info.push({
 	]},{
 	apartmentNumber : '223',
 	occupants : [
-		{name : '223 name1', phone : '223'},
-		{name : '223 name2', phone : '223'},
-		{name : '223 name3', phone : '223'}
+		{name : 'Калынюк Оксана', phone : '098 12 66 500'}
+		
 	]},{
 	apartmentNumber : '224',
 	occupants : [
