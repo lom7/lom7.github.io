@@ -38,9 +38,8 @@ info.push({
 	]},{
 		apartmentNumber : '309',
 		occupants : [
-			{name : '309 name1', phone : '309'},
-			{name : '309 name2', phone : '309'},
-			{name : '309 name3', phone : '309'}
+			{name : 'Маша Соболева', phone : '+38 093 413 03 75'},
+			{name : 'Андрей Соболев', phone : '+38 097 550 81 29, +38 093 651 79 89'}
 	]},{
 	apartmentNumber : '310',
 	occupants : [
